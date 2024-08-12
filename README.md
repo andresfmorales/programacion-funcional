@@ -1,2 +1,2 @@
 # programacion-funcional
-desarollo a prueba de programacion funcional
+# programacion-funcional
